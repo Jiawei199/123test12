@@ -1,0 +1,11 @@
+@charset "utf-8";
+body{ margin:0; padding:0; font-family: Arial, Helvetica, sans-serif; font-size:12px;line-height:15px; color:#777;/*background:url(../images/images-bg.gif) repeat-x top #fff;*/}
+div,form,ul,li,dl,dd,dt,img,input,span,h2,h3,h4,font,p{ margin:0; padding:0; border:0; list-style:none;}
+ul,li{padding:0px;margin:0px;list-style-type:none;}
+.clear{clear:both; font-size:0px; line-height:0px; width:0px; height:0px; visibility:hidden;}
+
+
+h2{font-size:18px;color:#00009e;padding-bottom:5px;}
+h3{font-size:14px;color:#00009e;padding-bottom:5px;}
+h4{font-size:16px;color:#000;}
+
